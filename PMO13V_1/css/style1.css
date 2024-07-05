@@ -1,0 +1,29 @@
+
+#form{
+    background-color: rgb(255, 255, 255);
+    width:250px;
+    border-radius: 4px;
+    margin:100px auto;
+    padding:50px;
+
+    
+    
+}
+
+#btn{
+    color:rgb(244, 239, 239);
+    background-color:#172035;
+    padding:10px;
+    font-size: medium;
+    border-radius: 10px;
+}
+
+@media screen and (max-width: 870px) {
+  #form {
+    width: 65%;
+    margin-left:none;
+    padding:40px;
+  }
+}
+ 
+ 
